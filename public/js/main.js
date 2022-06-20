@@ -1,0 +1,1 @@
+import * as say from "./class.js";

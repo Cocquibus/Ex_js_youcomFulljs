@@ -1,0 +1,87 @@
+body{
+    margin: 0px 15%;
+}
+.navTop{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 15px;
+}
+.menuNav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.menuGlobal{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.st0{
+    display: flex;
+    padding: 50px;
+    justify-content: space-around;
+}
+.st1,.st3,.st5{
+    padding: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.st2,.st4,.st6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+}
+.btnBlue{
+    width: 230px;
+    height: 90px;
+    padding: 20px;
+    border: none;
+    font-size: 2em;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.stVertical{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imgTxt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.txtSt{
+    margin: 50px 200px;
+    font-size: 1.4em;
+    width: 600px;
+}
+.verticalItem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+    margin: 20px;
+}
+.foot{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    color: white;
+    font-size: 1.4em;
+    padding: 75px;
+}
+.foot img{
+    width: 75px;
+    margin: 20px 10px;
+}
+.bottomFooter{
+    display: flex;
+}
